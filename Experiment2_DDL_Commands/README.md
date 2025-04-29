@@ -317,7 +317,7 @@ ON DELETE CASCADE
 
 **Output:**
 
-![Uploading Screenshot 2025-04-29 090530.png…]()
+![Screenshot 2025-04-29 090530](https://github.com/user-attachments/assets/5bd6c06d-b5d0-4848-9e46-6929c1c37a78)
 
 
 ## RESULT
